@@ -1,6 +1,6 @@
 # Evolving research themes in animal science and veterinary journals using text mining and BERTopic
 
-This repository contains the Python notebook and data-processing workflow used for the manuscript **"Evolving research themes in animal science and veterinary journals using text mining and BERTopic"**.
+This repository contains the Python notebook and data-processing workflow supporting the manuscript **"Evolving research themes in animal science and veterinary journals using text mining and BERTopic,"** submitted to BMC Veterinary Research.
 
 The study analyzes research trends in selected animal science and veterinary journals from 2010 to 2025 using bibliometric analysis, keyword analysis, co-occurrence network analysis, centrality analysis, and BERTopic-based semantic topic modeling.
 
