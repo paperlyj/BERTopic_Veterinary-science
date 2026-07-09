@@ -30,16 +30,14 @@ The uploaded Scopus CSV file contains **12,937 records** and **24 columns**.
 ## Repository structure
 
 ```text
-.
 ├── README.md
 ├── requirements.txt
-├── Veterinary-Science_GitHub_ready.ipynb
-├── data/
-│   └── export_veterinary_science_scopus_2010_2025.csv.gz
-├── results/
-│   └── generated figures and tables
-└── docs/
-    └── manuscript or supplementary notes
+├── Veterinary-Science_GitHub_ready_no_korean_markdown.ipynb
+├── reassemble_data.py
+└── data/
+    ├── export_veterinary_science_scopus_2010_2025.csv.gz.part00
+    ├── export_veterinary_science_scopus_2010_2025.csv.gz.part01
+    └── export_veterinary_science_scopus_2010_2025.csv.gz.part02
 ```
 
 ## Main workflow
