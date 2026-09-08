@@ -1,0 +1,22 @@
+(
+  EXACTSRCTITLE("Veterinary Journal")
+  OR EXACTSRCTITLE("The Veterinary Journal")
+  OR EXACTSRCTITLE("Veterinary Sciences")
+  OR EXACTSRCTITLE("Irish Veterinary Journal")
+  OR EXACTSRCTITLE("Veterinary Parasitology")
+  OR EXACTSRCTITLE("Veterinary Anaesthesia and Analgesia")
+  OR EXACTSRCTITLE("Journal of Veterinary Internal Medicine")
+  OR EXACTSRCTITLE("Equine Veterinary Journal")
+  OR EXACTSRCTITLE("Veterinary Microbiology")
+  OR EXACTSRCTITLE("Preventive Veterinary Medicine")
+  OR EXACTSRCTITLE("Frontiers in Veterinary Science")
+  OR EXACTSRCTITLE("BMC Veterinary Research")
+  OR EXACTSRCTITLE("Veterinary Research")
+  OR EXACTSRCTITLE("Veterinary Quarterly")
+  OR EXACTSRCTITLE("Pakistan Veterinary Journal")
+)
+AND SUBJAREA(VETE)
+AND PUBYEAR > 2009
+AND PUBYEAR < 2026
+AND (DOCTYPE(ar) OR DOCTYPE(re))
+AND LANGUAGE(english)

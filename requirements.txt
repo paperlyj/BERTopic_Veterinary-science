@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+networkx
+matplotlib
+geopandas
+sentence-transformers
+bertopic
+umap-learn
+hdbscan
+openpyxl
+jupyterlab

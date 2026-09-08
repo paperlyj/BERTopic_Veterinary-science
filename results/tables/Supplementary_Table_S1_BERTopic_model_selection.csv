@@ -1,0 +1,7 @@
+﻿Model,Status,Documents,Valid_documents,Outliers,Outlier_ratio,Raw_topics,Topic_diversity,Min_topic_size,Median_topic_size,Max_topic_size,Topic_size_CV,UMAP_n_neighbors,UMAP_n_components,UMAP_min_dist,HDBSCAN_min_cluster_size,HDBSCAN_min_samples,Vectorizer_min_df,Vectorizer_max_df,Error_message
+M3_more_conservative,success,48344,37467,10877,0.225,46,0.9609,302,719.0,2869,0.6216,15,5,0.0,300,10,5,0.95,
+M2_larger_clusters,success,48344,37195,11149,0.2306,62,0.9645,204,425.0,2869,0.7673,15,5,0.0,200,10,5,0.95,
+M4_lower_outlier,success,48344,36605,11739,0.2428,63,0.9556,201,424.0,1818,0.6642,30,5,0.0,200,5,5,0.95,
+M1_baseline,success,48344,36326,12018,0.2486,100,0.931,120,254.5,2869,0.9983,15,5,0.0,120,10,5,0.95,
+M5_stable_broader,success,48344,36024,12320,0.2548,47,0.9574,321,661.0,2768,0.6219,30,5,0.0,300,10,5,0.95,
+M6_high_min_df,success,48344,36024,12320,0.2548,47,0.9362,321,661.0,2768,0.6219,30,5,0.0,300,10,8,0.95,

@@ -1,0 +1,16 @@
+# Git upload commands
+# Run these commands from inside the unzipped repository folder.
+
+git init
+git add .
+git commit -m "Initial release of veterinary science BERTopic analysis"
+git branch -M main
+git remote add origin https://github.com/paperlyj/BERTopic_Veterinary-science.git
+git push -u origin main
+
+# If GitHub rejects large files, install Git LFS and track the compressed CSV:
+# git lfs install
+# git lfs track "*.csv.gz"
+# git add .gitattributes data/raw/export_veterinary_science_scopus_2010_2025.csv.gz
+# git commit -m "Track compressed dataset with Git LFS"
+# git push -u origin main

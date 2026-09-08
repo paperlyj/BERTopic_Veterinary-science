@@ -1,0 +1,46 @@
+{
+  "combined_raw_file": "data/raw/export_veterinary_science_scopus_2010_2025.csv.gz",
+  "combined_raw_rows": 89559,
+  "combined_raw_columns": 25,
+  "combined_raw_size_mb": 99.29,
+  "combined_raw_sha256": "12ada3e4ac3cd1c3cb2d71b258fab04edb8087714de00165b32c41ca16601225",
+  "source_exports": [
+    {
+      "file": "export_84e27248-bc8d-42fa-abd3-b92ca22aaa8d_2026-09-05T054722.381635054(1).csv",
+      "rows": 15865,
+      "columns": 25
+    },
+    {
+      "file": "export_444b5cd0-a34f-48a4-b3e4-c44721736146_2026-09-05T054948.697595578(1).csv",
+      "rows": 10126,
+      "columns": 25
+    },
+    {
+      "file": "export_64202cee-5dd8-4f59-b4a0-67482abb09dd_2026-09-05T054634.892646252(1).csv",
+      "rows": 17042,
+      "columns": 25
+    },
+    {
+      "file": "export_cf7b32eb-de9b-4fab-ac11-745d8ebc0a12_2026-09-05T054551.509481555(1).csv",
+      "rows": 16685,
+      "columns": 25
+    },
+    {
+      "file": "export_f2b22977-4d6c-4694-bfc6-cba8a2af4aa3_2026-09-05T054757.211036865(1).csv",
+      "rows": 14157,
+      "columns": 25
+    },
+    {
+      "file": "export_ff9ebce5-a0d6-4358-99d5-71f6e769f32e_2026-09-05T054928.290855388(1).csv",
+      "rows": 15684,
+      "columns": 25
+    }
+  ],
+  "retrieval_date": "2026-09-05",
+  "analysis_period": "2010-2025",
+  "document_types": [
+    "Article",
+    "Review"
+  ],
+  "language": "English"
+}

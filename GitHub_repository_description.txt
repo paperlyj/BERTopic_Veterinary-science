@@ -1,0 +1,1 @@
+Bibliometric, keyword-network, and BERTopic-based text-mining analysis of research themes in veterinary science literature from 2010 to 2025.
